@@ -2,13 +2,13 @@
 
 ### Date created
 Include the date you created this project and README file.
-
+8/22/2021
 ### Project Title
 Replace the Project Title
-
+Github guru making in progress
 ### Description
 Describe what your project is about and what it does
-
+Learning python
 ### Files used
 Include the files used
 
